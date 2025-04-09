@@ -7,3 +7,12 @@ Windows:  https://drive.google.com/file/d/1vyWa44OdzZNzHlPS6VJ4hwYuWbYsINsO/view
 Linux X86_64: https://drive.google.com/file/d/1_xCwae25KrW5i50rNoprvQ5nYJnLARnP/view?usp=sharing
 Linux Arm64: https://drive.google.com/file/d/1MtAsjNjPvWl5FwxQFNxQ6LkqhIcUcHUa/view?usp=sharing
 Android: https://drive.google.com/file/d/1CuKB8HXVsFOnA8q9dhipR5R5xAZvUKGT/view?usp=sharing
+
+Hold the settings button until it enables settings
+Press a changable icon (1-40)
+Then press a button on the right side that you want the icon to be
+More icons are available
+Save to keep or Cancel to revert select back to saved
+Some icons speak the icon when you press it, some are groups, and bring up an optional icons on the right side that speak
+Type in the box and press the speak button to speak anything you choose
+Questions or new icon requests please email me
